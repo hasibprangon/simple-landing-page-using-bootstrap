@@ -1,0 +1,12 @@
+.bg-body-tertiary{
+    background-color: rgb(207, 185, 159) !important;
+    border-radius: 8px;
+    opacity: 10 !important;
+}
+
+.hm-prev{
+    background-color: red;
+}
+.hm-next{
+    background-color: red;
+}
